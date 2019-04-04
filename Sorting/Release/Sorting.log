@@ -1,0 +1,24 @@
+﻿  sort2.cpp
+\\buad.bloomu.edu\student\usersmno\jfm34223\desktop\collegeproj\madden-kell\sorting\mysort.h(21): warning C4018: '<': signed/unsigned mismatch
+  sort2.cpp(57): note: see reference to function template instantiation 'void insertionsort<double>(std::vector<double,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+\\buad.bloomu.edu\student\usersmno\jfm34223\desktop\collegeproj\madden-kell\sorting\mysort.h(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  sort2.cpp(74): note: see reference to function template instantiation 'void hibbardsort<double>(std::vector<double,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+\\buad.bloomu.edu\student\usersmno\jfm34223\desktop\collegeproj\madden-kell\sorting\mysort.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\buad.bloomu.edu\student\usersmno\jfm34223\desktop\collegeproj\madden-kell\sorting\mysort.h(52): warning C4018: '<': signed/unsigned mismatch
+\\buad.bloomu.edu\student\usersmno\jfm34223\desktop\collegeproj\madden-kell\sorting\mysort.h(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\buad.bloomu.edu\student\usersmno\jfm34223\desktop\collegeproj\madden-kell\sorting\mysort.h(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  163 of 169 functions (96.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sorting.vcxproj -> \\buad.bloomu.edu\student\UsersMNO\jfm34223\Desktop\CollegeProj\Madden-Kell\Sorting\Release\Sorting.exe
+  Sorting.vcxproj -> \\buad.bloomu.edu\student\UsersMNO\jfm34223\Desktop\CollegeProj\Madden-Kell\Sorting\Release\Sorting.pdb (Full PDB)
